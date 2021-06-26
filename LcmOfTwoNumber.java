@@ -19,3 +19,7 @@ public class LcmOfTwoNumber {
         System.out.println("LCM of "+a+" and "+b+" is "+ Lcm(a,b) );
     }
 }
+/* you can also use 
+  a*b = gcd(a,b)*lcm(a,b);
+  two find the lcm
+  */
